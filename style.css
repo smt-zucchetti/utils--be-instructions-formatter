@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.form {
+  font: 16px/1.1em Arial;
+  margin-top: 30px;
+}
+.form--element {
+  display: block;
+  margin-bottom: 30px;
+  font-size: 14px;
+  line-height: 1.7em;
+}
+.form--textarea {
+  width: 930px;
+  height: 300px;
+}
+.form--label {
+  display: inline-block;
+  margin-bottom: 10px;
+}
