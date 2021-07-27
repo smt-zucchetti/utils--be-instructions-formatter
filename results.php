@@ -64,7 +64,7 @@
 				URL ACTION FORM ${actionUrl}<br>
 				${getParams}<br>
 				At the following link you can download the API document with the instructions on how to include Vertical Booking in the website.<br>
-				http://www.verticalbooking.com/downloads/Webmaster_API_eng_v3.0.pdf
+				http://www.verticalbookingusa.com/assets/docs/Webmaster_API_eng_v3.0.pdf
 				<br><br>
 			EOT;
 
